@@ -4,7 +4,7 @@
 
 ## Architecture
 
-![AWS Site-to-Site VPN Architecture](architecture/architecture-diagram.png)
+![AWS Site-to-Site VPN Architecture](architecture-diagram.png)
 
 ---
 
